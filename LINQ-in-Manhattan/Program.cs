@@ -12,6 +12,7 @@ namespace LINQ_in_Manhattan
         static void Main(string[] args)
         {
             Filter();
+
         }
         public class RootObject
         {
